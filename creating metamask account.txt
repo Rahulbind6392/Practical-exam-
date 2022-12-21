@@ -1,0 +1,12 @@
+Q) Demonstration on How to create and setup Metamask account and wallet?
+
+PROCEDURE ---->
+1) First we have to open Chrome and search add metamask extention.
+2)Then we have hit on Get Started.
+3) Agree to the terms and conditions.
+4) There will be two option, either you import wallet or create a wallet in this case if you do not have Secret Recovery Phrase then hit on create wallet and if you have Secret Recovery Phrase then hit on import wallet.
+5) Create password and agree to the terms of use.
+6) There will be short video on how to secure your wallet after seeing the video hit on next. 
+7) We have to REAVEAL SECRET WORDS and save it for the backup and restore your account and then hit on next.
+8)  You have to confirm the SECRET RECOVERY PHRASE.
+9) You will come across a window saying that CONGRATULATIONS hit on all done.

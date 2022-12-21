@@ -1,0 +1,10 @@
+Q) How to fund Goreli test network with test ether in Metamask?
+
+PROCEDURE---->
+1) First switch the network to goerli text network.
+2) Then copy wallet address.
+3) Open a new tab in any browser.
+4) Hit on the address bar and type goerlifaucet.com 
+5) In that you have to sign up with the Alchemy for requesting the Goerli Test Netwok.
+6) After signup paste your copied address in the box.
+7) and hit on the Send me ETH and few seconds you will be getting the Goerli Test Network
